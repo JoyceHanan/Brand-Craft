@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-009688.svg?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -102,3 +103,6 @@ graph TD
 We welcome contributions that align with our mission of accessible business intelligence. Please feel free to submit a Pull Request.
 
 
+=======
+# Brand-Craft
+>>>>>>> 434cf0e1e15f2d53a9f81c06211fee0a81392164
