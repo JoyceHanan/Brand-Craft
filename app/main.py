@@ -60,7 +60,7 @@ async def health_check():
 
 
 # Mount frontend static files (must be after API routes)
-app.mount("/", StaticFiles(directory="d:/AIGEN/Project/frontend", html=True), name="frontend")
+app.mount("/", StaticFiles(directory="frontend", html=True), name="frontend")
 
 
 if __name__ == "__main__":
